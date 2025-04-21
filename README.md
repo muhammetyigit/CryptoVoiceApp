@@ -13,6 +13,8 @@ To get started with the project, follow these steps:
   ```bash
   git clone https://github.com/muhammetyigit/CryptoVoiceApp.git
   open CryptoVoiceApp.xcodeproj
+
+## 📸 Screenshots
 <p align="center">
   <img src="https://github.com/muhammetyigit/CryptoVoiceApp/blob/main/gif.gif?raw=true" alt="CryptoVoiceApp GIF" width="500"/>
   <br><br>
